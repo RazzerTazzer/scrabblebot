@@ -1,0 +1,2 @@
+# scrabblebot
+Scrabblebot bot project
